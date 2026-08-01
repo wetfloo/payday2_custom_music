@@ -1,4 +1,4 @@
 {
-	"menu_jukebox_YOUR_MUSIC_NAME_HEIST" : "Heist Music track name",
-	"menu_jukebox_screen_YOUR_MUSIC_NAME_HEIST" : "Heist Music track name"
+	"menu_jukebox_no_mana_sun_chaser" : "No Mana - Sun Chaser",
+	"menu_jukebox_screen_no_mana_sun_chaser" : "No Mana - Sun Chaser"
 }
