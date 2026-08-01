@@ -19,10 +19,10 @@
 			<track source="assault.ogg" start_source="assault_intro.ogg" weight="10"/>
 			<track source="assault_alternate.ogg" start_source="assault_intro.ogg" weight="1"/>
 		</event>
-    </HeistMusic>
+	</HeistMusic>
 	<!--
 		Module for adding heist (regular loud/stealth) tracks. You need all 4 events -
-		setup AKA stealth, control, anticipation AKA buildup, and assault. For each event, 
+		setup AKA stealth, control, anticipation AKA buildup, and assault. For each event,
 		source is the part that loops and start_source is an optional part that plays once at the start of the event.
 		For alternate events, you can have multiple tracks in one event with different weights. The current assault is 10:1,
 		meaning that the alternate assault has a 10% chance to play.
