@@ -32,24 +32,4 @@
 		All sound files must be of .ogg (Ogg Vorbis) format.
 		Read more about the module here -> https://luffyyy.gitbook.io/beardlib/modules/heistmusicmodule
 	-->
-
-	<StealthMusic id="YOUR_MUSIC_NAME_STEALTH" directory="assets/sounds" volume="1">
-		<event name="suspense_1" source="suspense_1.ogg"/>
-		<event name="suspense_2" source="suspense_2.ogg"/>
-		<event name="suspense_3" source="suspense_3.ogg"/>
-		<event name="suspense_4" source="suspense_4.ogg"/>
-		<event name="suspense_5" source="suspense_5.ogg"/>
-	</StealthMusic>
-	<!--
-		Module for adding stealth-only tracks. You need at least suspense_1 and suspense_5 events.
-		Event 1 plays at the start, event 2-4 are triggered through level element logic, and suspense_5 plays during Point Of No Return.
-		All sound files must be of .ogg (Ogg Vorbis) format.
-	-->
-
-	<MenuMusic id="YOUR_MUSIC_NAME_MENU" source="assets/sounds/menu.ogg" start_source="assets/sounds/menu_intro.ogg" volume="1"/>
-	<!--
-		Module for adding menu tracks. Source is the part that loops and start_source is an optional part that plays once at the start.
-		All sound files must be of .ogg (Ogg Vorbis) format.
-		Read more here > https://luffyyy.gitbook.io/beardlib/modules/menumusicmodule
-	-->
 </mod>
