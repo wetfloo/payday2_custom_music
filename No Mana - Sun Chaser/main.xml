@@ -3,7 +3,7 @@
   <Localization directory="loc" default="english.txt">
     <loc file="english.txt" language="english"></loc>
   </Localization>
-  <HeistMusic id="no_mana_sun_chaser" directory="assets/sounds" volume="1">
+  <HeistMusic id="no_mana_sun_chaser" directory="assets/sounds" volume="0.8">
     <event name="setup" source="stealth.ogg"></event>
     <event name="control" source="control.ogg" start_source="control_intro.ogg"></event>
     <event name="anticipation" source="anticipation.ogg"></event>
