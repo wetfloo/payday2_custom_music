@@ -1,5 +1,5 @@
 <mod name="No Mana - Sun Chaser (Custom Track)" author="inertia" min_lib_ver="4.4">
-  <AssetUpdates id="-1" version="1.0" provider="modworkshop"></AssetUpdates>
+  <AssetUpdates id="58363" version="1.0" provider="modworkshop"></AssetUpdates>
   <Localization directory="loc" default="english.txt">
     <loc file="english.txt" language="english"></loc>
   </Localization>
