@@ -1,0 +1,7 @@
+{
+	"menu_jukebox_watch_dogs_menu_music_gamerip": "Watch Dogs Main Menu (In-Game Rip)",
+	"menu_jukebox_screen_watch_dogs_menu_music_gamerip": "Watch Dogs Main Menu (In-Game Rip)",
+
+	"menu_jukebox_watch_dogs_menu_music_hackers": "Watch Dogs Main Menu (Hackers)",
+	"menu_jukebox_screen_watch_dogs_menu_music_hackers": "Watch Dogs Main Menu (Hackers)"
+}
