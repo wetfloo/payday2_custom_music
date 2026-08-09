@@ -1,15 +1,17 @@
 <mod name="No Mana - Sun Chaser (Custom Track)" author="inertia" min_lib_ver="4.4">
-  <AssetUpdates id="58363" version="1.0" provider="modworkshop"></AssetUpdates>
-  <Localization directory="loc" default="english.txt">
-    <loc file="english.txt" language="english"></loc>
-  </Localization>
-  <HeistMusic id="no_mana_sun_chaser" directory="assets/sounds" volume="0.4">
-    <event name="setup" source="stealth.ogg"></event>
-    <event name="control" source="control.ogg" start_source="control_intro.ogg"></event>
-    <event name="anticipation" source="anticipation.ogg"></event>
-    <event name="assault">
-      <track source="assault.ogg" weight="1"></track>
-      <track source="assault_alt.ogg" weight="3"></track>
-    </event>
-  </HeistMusic>
+	<AssetUpdates id="58363" version="1.0" provider="modworkshop"/>
+
+	<Localization directory="loc" default="english.txt">
+		<loc file="english.txt" language="english"/>
+	</Localization>
+
+	<HeistMusic id="no_mana_sun_chaser" directory="assets/sounds" volume="0.4">
+		<event name="setup" source="stealth.ogg"/>
+		<event name="control" source="control.ogg" start_source="control_intro.ogg"/>
+		<event name="anticipation" source="anticipation.ogg"/>
+		<event name="assault">
+			<track source="assault.ogg" weight="1"/>
+			<track source="assault_alt.ogg" weight="3"/>
+		</event>
+	</HeistMusic>
 </mod>
