@@ -9,7 +9,7 @@
     <event name="anticipation" source="anticipation.ogg"></event>
     <event name="assault">
       <track source="assault.ogg" weight="1"></track>
-      <track source="assault_alt.ogg" weight="1"></track>
+      <track source="assault_alt.ogg" weight="3"></track>
     </event>
   </HeistMusic>
 </mod>
