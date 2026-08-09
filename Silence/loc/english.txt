@@ -1,0 +1,4 @@
+{
+	"menu_jukebox_silence": "Silence (-∞  dB)",
+	"menu_jukebox_screen_silence": "Silence (-∞  dB)"
+}

@@ -1,0 +1,16 @@
+<mod name="Silence (-∞  dB)" author="inertia" min_lib_ver="4.4">
+	<AssetUpdates id="58384" version="1.0" provider="modworkshop"/>
+
+	<Localization directory="loc" default="english.txt">
+		<loc file="english.txt" language="english"/>
+	</Localization>
+
+	<MenuMusic id="silence_menu_music" source="sounds/silence.ogg"/>
+
+	<HeistMusic id="silence_heist_music" directory="sounds">
+		<event name="setup" source="silence.ogg"/>
+		<event name="control" source="silence.ogg"/>
+		<event name="anticipation" source="silence.ogg"/>
+		<event name="assault" source="silence.ogg"/>
+	</HeistMusic>
+</mod>
