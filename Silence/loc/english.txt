@@ -1,6 +1,6 @@
 {
 	"menu_jukebox_silence_menu_music": "Silence (-inf dB)",
 	"menu_jukebox_screen_silence_menu_music": "Silence (-inf dB)"
-	"menu_jukebox_silence_silence_music": "Silence (-inf dB)",
-	"menu_jukebox_screen_silence_silence_music": "Silence (-inf dB)"
+	"menu_jukebox_silence_heist_music": "Silence (-inf dB)",
+	"menu_jukebox_screen_silence_heist_music": "Silence (-inf dB)"
 }
