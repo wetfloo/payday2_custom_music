@@ -1,5 +1,5 @@
 <mod name="Silence (-∞  dB)" author="inertia" min_lib_ver="4.4">
-	<AssetUpdates id="58384" version="1.0" provider="modworkshop"/>
+	<AssetUpdates id="58384" version="1.1" provider="modworkshop"/>
 
 	<Localization directory="loc" default="english.txt">
 		<loc file="english.txt" language="english"/>
