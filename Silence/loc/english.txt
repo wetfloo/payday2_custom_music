@@ -1,4 +1,6 @@
 {
-	"menu_jukebox_silence": "Silence (-∞  dB)",
-	"menu_jukebox_screen_silence": "Silence (-∞  dB)"
+	"menu_jukebox_silence_menu_music": "Silence (-∞  dB)",
+	"menu_jukebox_screen_silence_menu_music": "Silence (-∞  dB)"
+	"menu_jukebox_silence_silence_music": "Silence (-∞  dB)",
+	"menu_jukebox_screen_silence_silence_music": "Silence (-∞  dB)"
 }
