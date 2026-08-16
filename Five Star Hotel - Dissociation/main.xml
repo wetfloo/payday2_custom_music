@@ -1,0 +1,7 @@
+<mod name="Five Star Hotel - Dissociation" author="inertia" min_lib_ver="4.4">
+	<AssetUpdates id="-1" version="1.0"/>
+
+	<Localization directory="loc" default="en.txt"/>
+
+	<MenuMusic id="five_star_hotel_dissociation" source="sounds/dissociation.ogg"/>
+</mod>

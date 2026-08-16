@@ -1,0 +1,4 @@
+{
+	"menu_jukebox_five_star_hotel_dissociation": "Five Star Hotel - Dissociation",
+	"menu_jukebox_screen_five_star_hotel_dissociation": "Five Star Hotel - Dissociation"
+}
