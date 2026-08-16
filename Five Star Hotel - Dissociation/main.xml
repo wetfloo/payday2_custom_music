@@ -3,5 +3,5 @@
 
 	<Localization directory="loc" default="en.txt"/>
 
-	<MenuMusic id="five_star_hotel_dissociation" source="sounds/dissociation.ogg" volume="0.217"/>
+	<MenuMusic id="five_star_hotel_dissociation" source="sounds/dissociation.ogg" volume="0.218"/>
 </mod>
