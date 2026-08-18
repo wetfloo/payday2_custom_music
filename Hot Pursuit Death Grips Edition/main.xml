@@ -1,0 +1,17 @@
+<mod name="Hot Pursuit (Death Grips Edition)" author="inertia" min_lib_ver="4.4">
+	<AssetUpdates id="-1" version="1.0"/>
+
+	<Localization directory="loc" default="en.txt">
+		<loc file="en.txt" language="english"/>
+	</Localization>
+
+	<HeistMusic id="hot_pursuit_death_grips_edition" directory="assets/sounds" volume="0.37">
+		<event name="setup" source="stealth.ogg"/>
+		<event name="control" source="control.ogg"/>
+		<event name="anticipation" source="anticipation.ogg" start_source="anticipation_intro.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg">
+			<track source="assault_cultureshock.ogg" weight="1"/>
+			<track source="assault_threebedrooms.ogg" weight="1"/>
+		</event>
+	</HeistMusic>
+</mod>

@@ -1,0 +1,4 @@
+{
+	"menu_jukebox_hot_pursuit_death_grips_edition": "Hot Pursuit (Death Grips Edition)",
+	"menu_jukebox_screen_hot_pursuit_death_grips_edition": "Hot Pursuit (Death Grips Edition)"
+}
