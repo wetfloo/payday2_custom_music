@@ -1,0 +1,14 @@
+<mod name="telemist - envy (Custom Track)" author="inertia" min_lib_ver="4.4">
+	<AssetUpdates version="1.0"/>
+
+	<Localization directory="loc" default="english.txt">
+		<loc file="english.txt" language="english"/>
+	</Localization>
+
+	<HeistMusic id="telemist_envy" directory="assets/sounds" volume="0.284">
+		<event name="setup" source="stealth.ogg"/>
+		<event name="control" source="control.ogg"/>
+		<event name="anticipation" source="anticipation.ogg"/>
+		<event name="assault" source="assault.ogg"/>
+	</HeistMusic>
+</mod>

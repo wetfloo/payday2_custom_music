@@ -1,0 +1,4 @@
+{
+	"menu_jukebox_telemist_envy" : "telemist - envy",
+	"menu_jukebox_screen_telemist_envy" : "telemist - envy"
+}
