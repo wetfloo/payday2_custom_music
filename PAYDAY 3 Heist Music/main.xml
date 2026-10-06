@@ -3,147 +3,147 @@
 		<loc file="en.txt" language="english"/>
 	</Localization>
 
-	<HeistMusic id="PD399Boxes" directory="sounds/PD399Boxes">
+	<HeistMusic id="PD399Boxes" directory="sounds/PD399Boxes" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3BoysInBlue" directory="sounds/PD3BoysInBlue">
+	<HeistMusic id="PD3BoysInBlue" directory="sounds/PD3BoysInBlue" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3CookOff" directory="sounds/PD3CookOff">
+	<HeistMusic id="PD3CookOff" directory="sounds/PD3CookOff" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3DeliveryCharge" directory="sounds/PD3DeliveryCharge">
+	<HeistMusic id="PD3DeliveryCharge" directory="sounds/PD3DeliveryCharge" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3DiamondDistrict" directory="sounds/PD3DiamondDistrict">
+	<HeistMusic id="PD3DiamondDistrict" directory="sounds/PD3DiamondDistrict" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3DirtyIce" directory="sounds/PD3DirtyIce">
+	<HeistMusic id="PD3DirtyIce" directory="sounds/PD3DirtyIce" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3FearAndGreed" directory="sounds/PD3FearAndGreed">
+	<HeistMusic id="PD3FearAndGreed" directory="sounds/PD3FearAndGreed" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3FearAndGreedNoSolos" directory="sounds/PD3FearAndGreedNoSolos">
+	<HeistMusic id="PD3FearAndGreedNoSolos" directory="sounds/PD3FearAndGreedNoSolos" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3FirstWorldBank" directory="sounds/PD3FirstWorldBank">
+	<HeistMusic id="PD3FirstWorldBank" directory="sounds/PD3FirstWorldBank" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3GoldAndSharke" directory="sounds/PD3GoldAndSharke">
+	<HeistMusic id="PD3GoldAndSharke" directory="sounds/PD3GoldAndSharke" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3HoustonBreakout" directory="sounds/PD3HoustonBreakout">
+	<HeistMusic id="PD3HoustonBreakout" directory="sounds/PD3HoustonBreakout" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3NewTutorial" directory="sounds/PD3NewTutorial">
+	<HeistMusic id="PD3NewTutorial" directory="sounds/PD3NewTutorial" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3NoRestForTheWicked" directory="sounds/PD3NoRestForTheWicked">
+	<HeistMusic id="PD3NoRestForTheWicked" directory="sounds/PD3NoRestForTheWicked" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3PartyPowder" directory="sounds/PD3PartyPowder">
+	<HeistMusic id="PD3PartyPowder" directory="sounds/PD3PartyPowder" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3RoadRage" directory="sounds/PD3RoadRage">
+	<HeistMusic id="PD3RoadRage" directory="sounds/PD3RoadRage" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3RockTheCradle" directory="sounds/PD3RockTheCradle">
+	<HeistMusic id="PD3RockTheCradle" directory="sounds/PD3RockTheCradle" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3ShoppingSpree" directory="sounds/PD3ShoppingSpree">
+	<HeistMusic id="PD3ShoppingSpree" directory="sounds/PD3ShoppingSpree" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3SyntaxError" directory="sounds/PD3SyntaxError">
+	<HeistMusic id="PD3SyntaxError" directory="sounds/PD3SyntaxError" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3TouchTheSky" directory="sounds/PD3TouchTheSky">
+	<HeistMusic id="PD3TouchTheSky" directory="sounds/PD3TouchTheSky" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3TurbidStation" directory="sounds">
+	<HeistMusic id="PD3TurbidStation" directory="sounds" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
 		<event name="control" source="control.ogg"/>
 	</HeistMusic>
 
-	<HeistMusic id="PD3UnderTheSurphaze" directory="sounds/PD3UnderTheSurphaze">
+	<HeistMusic id="PD3UnderTheSurphaze" directory="sounds/PD3UnderTheSurphaze" volume="0.55">
 		<event name="setup" source="stealth.ogg"/>
 		<event name="anticipation" source="buildup.ogg"/>
 		<event name="assault" source="assault.ogg"/>
