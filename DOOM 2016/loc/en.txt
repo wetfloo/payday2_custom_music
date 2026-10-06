@@ -1,0 +1,28 @@
+{
+	"menu_jukebox_doom2016_hellwalker": "[DOOM 2016] Hellwalker",
+	"menu_jukebox_screen_doom2016_hellwalker": "[DOOM 2016] Hellwalker",
+
+	"menu_jukebox_doom2016_bfg_division": "[DOOM 2016] BFG Division",
+	"menu_jukebox_screen_doom2016_bfg_division": "[DOOM 2016] BFG Division",
+
+	"menu_jukebox_doom2016_damnation": "[DOOM 2016] Damnation",
+	"menu_jukebox_screen_doom2016_damnation": "[DOOM 2016] Damnation",
+
+	"menu_jukebox_doom2016_flesh_and_metal": "[DOOM 2016] Flesh and Metal",
+	"menu_jukebox_screen_doom2016_flesh_and_metal": "[DOOM 2016] Flesh and Metal",
+
+	"menu_jukebox_doom2016_harbinger": "[DOOM 2016] Harbinger",
+	"menu_jukebox_screen_doom2016_harbinger": "[DOOM 2016] Harbinger",
+
+	"menu_jukebox_doom2016_rip_and_tear": "[DOOM 2016] Rip and Tear",
+	"menu_jukebox_screen_doom2016_rip_and_tear": "[DOOM 2016] Rip and Tear",
+
+	"menu_jukebox_doom2016_skullhacker": "[DOOM 2016] Skullhacker",
+	"menu_jukebox_screen_doom2016_skullhacker": "[DOOM 2016] Skullhacker",
+
+	"menu_jukebox_doom2016_transistor_fist": "[DOOM 2016] Transistor Fist",
+	"menu_jukebox_screen_doom2016_transistor_fist": "[DOOM 2016] Transistor Fist",
+
+	"menu_jukebox_doom2016_vega_core": "[DOOM 2016] Vega Core",
+	"menu_jukebox_screen_doom2016_vega_core": "[DOOM 2016] Vega Core"
+}

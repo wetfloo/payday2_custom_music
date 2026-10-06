@@ -1,0 +1,63 @@
+<mod name="DOOM 2016 Music" author="inertia" min_lib_ver="4.4">
+	<Localization directory="loc" default="en.txt">
+		<loc file="en.txt" language="english"/>
+	</Localization>
+
+	<MenuMusic id="doom2016_hellwalker" source="sounds/hellwalker/menu.ogg" volume="0.531"/>
+
+	<HeistMusic id="doom2016_vega_core" directory="sounds/vega_core" volume="0.497">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom2016_harbinger" directory="sounds/harbinger" volume="0.486">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom2016_damnation" directory="sounds/damnation" volume="0.45">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom2016_skullhacker" directory="sounds/skullhacker" volume="0.546">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom2016_rip_and_tear" directory="sounds/rip_and_tear" volume="0.386">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom2016_bfg_division" directory="sounds/bfg_division" volume="0.378">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom2016_transistor_fist" directory="sounds/transistor_fist" volume="0.584">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom2016_flesh_and_metal" directory="sounds/flesh_and_metal" volume="0.464">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+</mod>

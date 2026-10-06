@@ -1,0 +1,46 @@
+{
+	"menu_jukebox_doom_eternal_bfg_10k": "[DOOM Eternal] BFG 10K",
+	"menu_jukebox_screen_doom_eternal_bfg_10k": "[DOOM Eternal] BFG 10K",
+
+	"menu_jukebox_doom_eternal_blood_swamps": "[DOOM Eternal] Blood Swamps",
+	"menu_jukebox_screen_doom_eternal_blood_swamps": "[DOOM Eternal] Blood Swamps",
+
+	"menu_jukebox_doom_eternal_cultist_base": "[DOOM Eternal] Cultist Base",
+	"menu_jukebox_screen_doom_eternal_cultist_base": "[DOOM Eternal] Cultist Base",
+
+	"menu_jukebox_doom_eternal_gladiator": "[DOOM Eternal] Gladiator",
+	"menu_jukebox_screen_doom_eternal_gladiator": "[DOOM Eternal] Gladiator",
+
+	"menu_jukebox_doom_eternal_hell_on_earth": "[DOOM Eternal] Hell on Earth",
+	"menu_jukebox_screen_doom_eternal_hell_on_earth": "[DOOM Eternal] Hell on Earth",
+
+	"menu_jukebox_doom_eternal_immora": "[DOOM Eternal] Immora",
+	"menu_jukebox_screen_doom_eternal_immora": "[DOOM Eternal] Immora",
+
+	"menu_jukebox_doom_eternal_kar_en_tuk": "[DOOM Eternal] Kar En Tuk",
+	"menu_jukebox_screen_doom_eternal_kar_en_tuk": "[DOOM Eternal] Kar En Tuk",
+
+	"menu_jukebox_doom_eternal_mars_core": "[DOOM Eternal] Mars Core",
+	"menu_jukebox_screen_doom_eternal_mars_core": "[DOOM Eternal] Mars Core",
+
+	"menu_jukebox_doom_eternal_metal_hell": "[DOOM Eternal] Metal Hell",
+	"menu_jukebox_screen_doom_eternal_metal_hell": "[DOOM Eternal] Metal Hell",
+
+	"menu_jukebox_doom_eternal_science_and_sorcery": "[DOOM Eternal] Science and Sorcery (Doom Hunter Base)",
+	"menu_jukebox_screen_doom_eternal_science_and_sorcery": "[DOOM Eternal] Science and Sorcery (Doom Hunter Base)",
+
+	"menu_jukebox_doom_eternal_super_gore_nest": "[DOOM Eternal] Super Gore Nest",
+	"menu_jukebox_screen_doom_eternal_super_gore_nest": "[DOOM Eternal] Super Gore Nest",
+
+	"menu_jukebox_doom_eternal_the_dark_lord": "[DOOM Eternal] The Dark Lord",
+	"menu_jukebox_screen_doom_eternal_the_dark_lord": "[DOOM Eternal] The Dark Lord",
+
+	"menu_jukebox_doom_eternal_the_doom_hunter": "[DOOM Eternal] The Doom Hunter",
+	"menu_jukebox_screen_doom_eternal_the_doom_hunter": "[DOOM Eternal] The Doom Hunter",
+
+	"menu_jukebox_doom_eternal_trial_of_maligog": "[DOOM Eternal] Trial of Maligog",
+	"menu_jukebox_screen_doom_eternal_trial_of_maligog": "[DOOM Eternal] Trial of Maligog",
+
+	"menu_jukebox_doom_eternal_uac_atlantica": "[DOOM Eternal] UAC Atlantica",
+	"menu_jukebox_screen_doom_eternal_uac_atlantica": "[DOOM Eternal] UAC Atlantica"
+}

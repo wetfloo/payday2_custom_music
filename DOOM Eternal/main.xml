@@ -1,0 +1,105 @@
+<mod name="DOOM Eternal Music" author="inertia" min_lib_ver="4.4">
+	<Localization directory="loc" default="en.txt">
+		<loc file="en.txt" language="english"/>
+	</Localization>
+
+	<MenuMusic id="doom_eternal_kar_en_tuk" source="sounds/kar_en_tuk/menu.ogg" volume="0.26"/>
+
+	<HeistMusic id="doom_eternal_bfg_10k" directory="sounds/bfg_10k" volume="0.373">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom_eternal_blood_swamps" directory="sounds/blood_swamps" volume="0.43">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom_eternal_cultist_base" directory="sounds/cultist_base" volume="0.324">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom_eternal_doom_hunter" directory="sounds/doom_hunter" volume="0.3">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom_eternal_gladiator" directory="sounds/gladiator" volume="0.251">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assaultintro.ogg" source="assault_1.ogg" alt_source="assault_2.ogg" alt_chance="0.2" allow_switch="true"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom_eternal_hell_on_earth" directory="sounds/hell_on_earth" volume="0.328">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom_eternal_immora" directory="sounds/immora" volume="0.265">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" source="assault_1.ogg" alt_source="assault_2.ogg" alt_chance="0.4" allow_switch="true"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom_eternal_mars_core" directory="sounds/mars_core" volume="0.325">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom_eternal_metal_hell" directory="sounds/metal_hell" volume="0.33">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom_eternal_science_and_sorcery" directory="sounds/science_and_sorcery" volume="0.282">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom_eternal_super_gore_nest" directory="sounds/super_gore_nest" volume="0.273">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom_eternal_the_dark_lord" directory="sounds/the_dark_lord" volume="0.363">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom_eternal_trial_of_maligog" directory="sounds/trial_of_maligog" volume="0.423">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+
+	<HeistMusic id="doom_eternal_uac_atlantica" directory="sounds/uac_atlantica" volume="0.314">
+		<event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="anticipation" start_source="buildup_intro.ogg" source="buildup.ogg"/>
+		<event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+	</HeistMusic>
+</mod>
