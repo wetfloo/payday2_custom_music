@@ -1,0 +1,5 @@
+<mod name="PAYDAY 3 Heist Music" author="inertia" min_lib_ver="4.4">
+	<Localization directory="loc" default="en.txt">
+		<loc file="en.txt" language="english"/>
+	</Localization>
+</mod>
