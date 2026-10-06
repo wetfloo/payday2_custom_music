@@ -1,64 +1,64 @@
 {
-	"menu_jukebox_PD399Boxes": "99 Boxes",
-	"menu_jukebox_screen_PD399Boxes": "99 Boxes",
+	"menu_jukebox_PD399Boxes": "[PAYDAY 3] 99 Boxes",
+	"menu_jukebox_screen_PD399Boxes": "[PAYDAY 3] 99 Boxes",
 
-	"menu_jukebox_PD3BoysInBlue": "Boys In Blue",
-	"menu_jukebox_screen_PD3BoysInBlue": "Boys In Blue",
+	"menu_jukebox_PD3BoysInBlue": "[PAYDAY 3] Boys In Blue",
+	"menu_jukebox_screen_PD3BoysInBlue": "[PAYDAY 3] Boys In Blue",
 
-	"menu_jukebox_PD3CookOff": "Cook Off",
-	"menu_jukebox_screen_PD3CookOff": "Cook Off",
+	"menu_jukebox_PD3CookOff": "[PAYDAY 3] Cook Off",
+	"menu_jukebox_screen_PD3CookOff": "[PAYDAY 3] Cook Off",
 
-	"menu_jukebox_PD3DeliveryCharge": "Delivery Charge",
-	"menu_jukebox_screen_PD3DeliveryCharge": "Delivery Charge",
+	"menu_jukebox_PD3DeliveryCharge": "[PAYDAY 3] Delivery Charge",
+	"menu_jukebox_screen_PD3DeliveryCharge": "[PAYDAY 3] Delivery Charge",
 
-	"menu_jukebox_PD3DiamondDistrict": "Diamond District",
-	"menu_jukebox_screen_PD3DiamondDistrict": "Diamond District",
+	"menu_jukebox_PD3DiamondDistrict": "[PAYDAY 3] Diamond District",
+	"menu_jukebox_screen_PD3DiamondDistrict": "[PAYDAY 3] Diamond District",
 
-	"menu_jukebox_PD3DirtyIce": "Dirty Ice",
-	"menu_jukebox_screen_PD3DirtyIce": "Dirty Ice",
+	"menu_jukebox_PD3DirtyIce": "[PAYDAY 3] Dirty Ice",
+	"menu_jukebox_screen_PD3DirtyIce": "[PAYDAY 3] Dirty Ice",
 
-	"menu_jukebox_PD3FearAndGreed": "Fear And Greed",
-	"menu_jukebox_screen_PD3FearAndGreed": "Fear And Greed",
+	"menu_jukebox_PD3FearAndGreed": "[PAYDAY 3] Fear And Greed",
+	"menu_jukebox_screen_PD3FearAndGreed": "[PAYDAY 3] Fear And Greed",
 
-	"menu_jukebox_PD3FearAndGreedNoSolos": "Fear And Greed No Solos",
-	"menu_jukebox_screen_PD3FearAndGreedNoSolos": "Fear And Greed No Solos",
+	"menu_jukebox_PD3FearAndGreedNoSolos": "[PAYDAY 3] Fear And Greed No Solos",
+	"menu_jukebox_screen_PD3FearAndGreedNoSolos": "[PAYDAY 3] Fear And Greed No Solos",
 
-	"menu_jukebox_PD3FirstWorldBank": "First World Bank",
-	"menu_jukebox_screen_PD3FirstWorldBank": "First World Bank",
+	"menu_jukebox_PD3FirstWorldBank": "[PAYDAY 3] First World Bank",
+	"menu_jukebox_screen_PD3FirstWorldBank": "[PAYDAY 3] First World Bank",
 
-	"menu_jukebox_PD3GoldAndSharke": "Gold And Sharke",
-	"menu_jukebox_screen_PD3GoldAndSharke": "Gold And Sharke",
+	"menu_jukebox_PD3GoldAndSharke": "[PAYDAY 3] Gold And Sharke",
+	"menu_jukebox_screen_PD3GoldAndSharke": "[PAYDAY 3] Gold And Sharke",
 
-	"menu_jukebox_PD3HoustonBreakout": "Houston Breakout",
-	"menu_jukebox_screen_PD3HoustonBreakout": "Houston Breakout",
+	"menu_jukebox_PD3HoustonBreakout": "[PAYDAY 3] Houston Breakout",
+	"menu_jukebox_screen_PD3HoustonBreakout": "[PAYDAY 3] Houston Breakout",
 
-	"menu_jukebox_PD3NewTutorial": "New Tutorial",
-	"menu_jukebox_screen_PD3NewTutorial": "New Tutorial",
+	"menu_jukebox_PD3NewTutorial": "[PAYDAY 3] New Tutorial",
+	"menu_jukebox_screen_PD3NewTutorial": "[PAYDAY 3] New Tutorial",
 
-	"menu_jukebox_PD3NoRestForTheWicked": "No Rest For The Wicked",
-	"menu_jukebox_screen_PD3NoRestForTheWicked": "No Rest For The Wicked",
+	"menu_jukebox_PD3NoRestForTheWicked": "[PAYDAY 3] No Rest For The Wicked",
+	"menu_jukebox_screen_PD3NoRestForTheWicked": "[PAYDAY 3] No Rest For The Wicked",
 
-	"menu_jukebox_PD3PartyPowder": "Party Powder",
-	"menu_jukebox_screen_PD3PartyPowder": "Party Powder",
+	"menu_jukebox_PD3PartyPowder": "[PAYDAY 3] Party Powder",
+	"menu_jukebox_screen_PD3PartyPowder": "[PAYDAY 3] Party Powder",
 
-	"menu_jukebox_PD3RoadRage": "Road Rage",
-	"menu_jukebox_screen_PD3RoadRage": "Road Rage",
+	"menu_jukebox_PD3RoadRage": "[PAYDAY 3] Road Rage",
+	"menu_jukebox_screen_PD3RoadRage": "[PAYDAY 3] Road Rage",
 
-	"menu_jukebox_PD3RockTheCradle": "Rock The Cradle",
-	"menu_jukebox_screen_PD3RockTheCradle": "Rock The Cradle",
+	"menu_jukebox_PD3RockTheCradle": "[PAYDAY 3] Rock The Cradle",
+	"menu_jukebox_screen_PD3RockTheCradle": "[PAYDAY 3] Rock The Cradle",
 
-	"menu_jukebox_PD3ShoppingSpree": "Shopping Spree",
-	"menu_jukebox_screen_PD3ShoppingSpree": "Shopping Spree",
+	"menu_jukebox_PD3ShoppingSpree": "[PAYDAY 3] Shopping Spree",
+	"menu_jukebox_screen_PD3ShoppingSpree": "[PAYDAY 3] Shopping Spree",
 
-	"menu_jukebox_PD3SyntaxError": "Syntax Error",
-	"menu_jukebox_screen_PD3Syntax Error": "Syntax Error",
+	"menu_jukebox_PD3SyntaxError": "[PAYDAY 3] Syntax Error",
+	"menu_jukebox_screen_PD3Syntax Error": "[PAYDAY 3] Syntax Error",
 
-	"menu_jukebox_PD3TouchTheSky": "Touch The Sky",
-	"menu_jukebox_screen_PD3TouchTheSky": "Touch The Sky",
+	"menu_jukebox_PD3TouchTheSky": "[PAYDAY 3] Touch The Sky",
+	"menu_jukebox_screen_PD3TouchTheSky": "[PAYDAY 3] Touch The Sky",
 
-	"menu_jukebox_PD3TurbidStation": "Turbid Station",
-	"menu_jukebox_screen_PD3TurbidStation": "Turbid Station",
+	"menu_jukebox_PD3TurbidStation": "[PAYDAY 3] Turbid Station",
+	"menu_jukebox_screen_PD3TurbidStation": "[PAYDAY 3] Turbid Station",
 
-	"menu_jukebox_PD3UnderTheSurphaze": "Under The Surphaze",
-	"menu_jukebox_screen_PD3UnderTheSurphaze": "Under The Surphaze"
+	"menu_jukebox_PD3UnderTheSurphaze": "[PAYDAY 3] Under The Surphaze",
+	"menu_jukebox_screen_PD3UnderTheSurphaze": "[PAYDAY 3] Under The Surphaze"
 }
