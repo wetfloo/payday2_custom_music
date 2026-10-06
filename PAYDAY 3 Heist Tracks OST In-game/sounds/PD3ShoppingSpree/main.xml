@@ -1,9 +1,3 @@
 <table name="PD3ShoppingSpree">
     <Localization directory="loc" default="en.txt"/>
-    <HeistMusic id="PD3ShoppingSpree" directory="sounds">
-        <event name="setup" source="stealth.ogg"/>
-        <event name="anticipation" source="buildup.ogg"/>
-        <event name="assault" source="assault.ogg"/>
-        <event name="control" source="control.ogg"/>
-    </HeistMusic>
 </table>
