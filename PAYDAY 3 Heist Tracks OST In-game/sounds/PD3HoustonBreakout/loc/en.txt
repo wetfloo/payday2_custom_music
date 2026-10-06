@@ -1,4 +1,2 @@
 {
-    "menu_jukebox_PD3HoustonBreakout" : "Houston Breakout",
-    "menu_jukebox_screen_PD3HoustonBreakout" : "Houston Breakout"
 }

@@ -1,4 +1,2 @@
 {
-    "menu_jukebox_PD3DirtyIce" : "Dirty Ice",
-    "menu_jukebox_screen_PD3DirtyIce" : "Dirty Ice"
 }

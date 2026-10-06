@@ -1,4 +1,2 @@
 {
-    "menu_jukebox_PD3FirstWorldBank" : "First World Bank",
-    "menu_jukebox_screen_PD3FirstWorldBank" : "First World Bank"
 }

@@ -1,4 +1,2 @@
 {
-    "menu_jukebox_PD3DeliveryCharge" : "Delivery Charge",
-    "menu_jukebox_screen_PD3DeliveryCharge" : "Delivery Charge"
 }

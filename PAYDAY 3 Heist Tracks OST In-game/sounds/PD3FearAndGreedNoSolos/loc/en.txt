@@ -1,4 +1,2 @@
 {
-    "menu_jukebox_PD3FearAndGreedNoSolos" : "Fear And Greed No Solos",
-    "menu_jukebox_screen_PD3FearAndGreedNoSolos" : "Fear And Greed No Solos"
 }
