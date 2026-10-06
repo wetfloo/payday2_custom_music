@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_PD3ShoppingSpree" : "Shopping Spree",
+    "menu_jukebox_screen_PD3ShoppingSpree" : "Shopping Spree"
+}

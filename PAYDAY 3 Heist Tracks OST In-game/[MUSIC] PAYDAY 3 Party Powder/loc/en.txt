@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_PD3PartyPowder" : "Party Powder",
+    "menu_jukebox_screen_PD3PartyPowder" : "Party Powder"
+}

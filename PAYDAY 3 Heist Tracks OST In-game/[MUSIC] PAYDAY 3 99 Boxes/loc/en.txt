@@ -1,0 +1,4 @@
+{
+	"menu_jukebox_PD399Boxes" : "99 Boxes",
+	"menu_jukebox_screen_PD399Boxes" : "99 Boxes"
+}

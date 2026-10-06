@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_PD3DiamondDistrict" : "Diamond District",
+    "menu_jukebox_screen_PD3DiamondDistrict" : "Diamond District"
+}

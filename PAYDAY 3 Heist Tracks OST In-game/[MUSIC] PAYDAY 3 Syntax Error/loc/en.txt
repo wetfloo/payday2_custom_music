@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_PD3SyntaxError" : "Syntax Error",
+    "menu_jukebox_screen_PD3Syntax Error" : "Syntax Error"
+}

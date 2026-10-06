@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_PD3CookOff" : "Cook Off",
+    "menu_jukebox_screen_PD3CookOff" : "Cook Off"
+}

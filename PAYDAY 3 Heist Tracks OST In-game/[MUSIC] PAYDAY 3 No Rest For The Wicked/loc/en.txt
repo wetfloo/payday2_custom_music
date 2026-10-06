@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_PD3NoRestForTheWicked" : "No Rest For The Wicked",
+    "menu_jukebox_screen_PD3NoRestForTheWicked" : "No Rest For The Wicked"
+}

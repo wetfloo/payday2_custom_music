@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_PD3NewTutorial" : "New Tutorial",
+    "menu_jukebox_screen_PD3NewTutorial" : "New Tutorial"
+}
