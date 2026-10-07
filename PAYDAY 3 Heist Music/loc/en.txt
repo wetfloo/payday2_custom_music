@@ -1,36 +1,36 @@
 {
-	"menu_jukebox_PD399Boxes": "[PAYDAY 3] 99 Boxes",
-	"menu_jukebox_screen_PD399Boxes": "[PAYDAY 3] 99 Boxes",
+	"menu_jukebox_PD399Boxes": "[PAYDAY 3] 99 Boxes (Ice Punch)",
+	"menu_jukebox_screen_PD399Boxes": "[PAYDAY 3] 99 Boxes (Ice Punch)",
 
-	"menu_jukebox_PD3BoysInBlue": "[PAYDAY 3] Boys In Blue",
+	"menu_jukebox_PD3BoysInBlue": "[PAYDAY 3] Boys In Blue (Siren Rush)",
 	"menu_jukebox_screen_PD3BoysInBlue": "[PAYDAY 3] Boys In Blue",
 
-	"menu_jukebox_PD3CookOff": "[PAYDAY 3] Cook Off",
-	"menu_jukebox_screen_PD3CookOff": "[PAYDAY 3] Cook Off",
+	"menu_jukebox_PD3CookOff": "[PAYDAY 3] Cook Off (Let Them Cook)",
+	"menu_jukebox_screen_PD3CookOff": "[PAYDAY 3] Cook Off (Let Them Cook)",
 
-	"menu_jukebox_PD3DeliveryCharge": "[PAYDAY 3] Delivery Charge",
-	"menu_jukebox_screen_PD3DeliveryCharge": "[PAYDAY 3] Delivery Charge",
+	"menu_jukebox_PD3DeliveryCharge": "[PAYDAY 3] Delivery Charge (Grit and Steel)",
+	"menu_jukebox_screen_PD3DeliveryCharge": "[PAYDAY 3] Delivery Charge (Grit and Steel)",
 
-	"menu_jukebox_PD3DiamondDistrict": "[PAYDAY 3] Diamond District",
-	"menu_jukebox_screen_PD3DiamondDistrict": "[PAYDAY 3] Diamond District",
+	"menu_jukebox_PD3DiamondDistrict": "[PAYDAY 3] Diamond District (Blockbuster)",
+	"menu_jukebox_screen_PD3DiamondDistrict": "[PAYDAY 3] Diamond District (Blockbuster)",
 
-	"menu_jukebox_PD3DirtyIce": "[PAYDAY 3] Dirty Ice",
-	"menu_jukebox_screen_PD3DirtyIce": "[PAYDAY 3] Dirty Ice",
+	"menu_jukebox_PD3DirtyIce": "[PAYDAY 3] Dirty Ice (Ruby Ruse)",
+	"menu_jukebox_screen_PD3DirtyIce": "[PAYDAY 3] Dirty Ice (Ruby Ruse)",
 
-	"menu_jukebox_PD3FearAndGreed": "[PAYDAY 3] Fear And Greed",
-	"menu_jukebox_screen_PD3FearAndGreed": "[PAYDAY 3] Fear And Greed",
+	"menu_jukebox_PD3FearAndGreed": "[PAYDAY 3] Fear And greed (Pump and Dump)",
+	"menu_jukebox_screen_PD3FearAndGreed": "[PAYDAY 3] Fear and Greed (Pump and Dump)",
 
-	"menu_jukebox_PD3FearAndGreedNoSolos": "[PAYDAY 3] Fear And Greed No Solos",
-	"menu_jukebox_screen_PD3FearAndGreedNoSolos": "[PAYDAY 3] Fear And Greed No Solos",
+	"menu_jukebox_PD3FearAndGreedNoSolos": "[PAYDAY 3] Fear and Greed No Solos (Pump and Dump)",
+	"menu_jukebox_screen_PD3FearAndGreedNoSolos": "[PAYDAY 3] Fear and Greed No Solos (Pump and Dump)",
 
-	"menu_jukebox_PD3FirstWorldBank": "[PAYDAY 3] First World Bank",
-	"menu_jukebox_screen_PD3FirstWorldBank": "[PAYDAY 3] First World Bank",
+	"menu_jukebox_PD3FirstWorldBank": "[PAYDAY 3] First World Bank (Pressure Point)",
+	"menu_jukebox_screen_PD3FirstWorldBank": "[PAYDAY 3] First World Bank (Pressure Point)",
 
-	"menu_jukebox_PD3GoldAndSharke": "[PAYDAY 3] Gold And Sharke",
-	"menu_jukebox_screen_PD3GoldAndSharke": "[PAYDAY 3] Gold And Sharke",
+	"menu_jukebox_PD3GoldAndSharke": "[PAYDAY 3] Gold And Sharke (Heatwave)",
+	"menu_jukebox_screen_PD3GoldAndSharke": "[PAYDAY 3] Gold And Sharke (Heatwave)",
 
-	"menu_jukebox_PD3HoustonBreakout": "[PAYDAY 3] Houston Breakout",
-	"menu_jukebox_screen_PD3HoustonBreakout": "[PAYDAY 3] Houston Breakout",
+	"menu_jukebox_PD3HoustonBreakout": "[PAYDAY 3] Houston Breakout (Teardown Protocol)",
+	"menu_jukebox_screen_PD3HoustonBreakout": "[PAYDAY 3] Houston Breakout (Teardown Protocol)",
 
 	"menu_jukebox_PD3NewTutorial": "[PAYDAY 3] New Tutorial",
 	"menu_jukebox_screen_PD3NewTutorial": "[PAYDAY 3] New Tutorial",
@@ -38,27 +38,27 @@
 	"menu_jukebox_PD3NoRestForTheWicked": "[PAYDAY 3] No Rest For The Wicked",
 	"menu_jukebox_screen_PD3NoRestForTheWicked": "[PAYDAY 3] No Rest For The Wicked",
 
-	"menu_jukebox_PD3PartyPowder": "[PAYDAY 3] Party Powder",
-	"menu_jukebox_screen_PD3PartyPowder": "[PAYDAY 3] Party Powder",
+	"menu_jukebox_PD3PartyPowder": "[PAYDAY 3] Party Powder (Gatecrasher)",
+	"menu_jukebox_screen_PD3PartyPowder": "[PAYDAY 3] Party Powder (Gatecrasher)",
 
-	"menu_jukebox_PD3RoadRage": "[PAYDAY 3] Road Rage",
-	"menu_jukebox_screen_PD3RoadRage": "[PAYDAY 3] Road Rage",
+	"menu_jukebox_PD3RoadRage": "[PAYDAY 3] Road Rage (Contra)",
+	"menu_jukebox_screen_PD3RoadRage": "[PAYDAY 3] Road Rage (Contra)",
 
-	"menu_jukebox_PD3RockTheCradle": "[PAYDAY 3] Rock The Cradle",
-	"menu_jukebox_screen_PD3RockTheCradle": "[PAYDAY 3] Rock The Cradle",
+	"menu_jukebox_PD3RockTheCradle": "[PAYDAY 3] Rock The Cradle (Cryptoshot)",
+	"menu_jukebox_screen_PD3RockTheCradle": "[PAYDAY 3] Rock The Cradle (Cryptoshot)",
 
-	"menu_jukebox_PD3ShoppingSpree": "[PAYDAY 3] Shopping Spree",
-	"menu_jukebox_screen_PD3ShoppingSpree": "[PAYDAY 3] Shopping Spree",
+	"menu_jukebox_PD3ShoppingSpree": "[PAYDAY 3] Shopping Spree (Price Cut)",
+	"menu_jukebox_screen_PD3ShoppingSpree": "[PAYDAY 3] Shopping Spree (Price Cut)",
 
-	"menu_jukebox_PD3SyntaxError": "[PAYDAY 3] Syntax Error",
-	"menu_jukebox_screen_PD3Syntax Error": "[PAYDAY 3] Syntax Error",
+	"menu_jukebox_PD3SyntaxError": "[PAYDAY 3] Syntax Error (BitCrusher)",
+	"menu_jukebox_screen_PD3Syntax Error": "[PAYDAY 3] Syntax Error (BitCrusher)",
 
-	"menu_jukebox_PD3TouchTheSky": "[PAYDAY 3] Touch The Sky",
-	"menu_jukebox_screen_PD3TouchTheSky": "[PAYDAY 3] Touch The Sky",
+	"menu_jukebox_PD3TouchTheSky": "[PAYDAY 3] Touch The Sky (Sky High Score)",
+	"menu_jukebox_screen_PD3TouchTheSky": "[PAYDAY 3] Touch The Sky (Sky High Score)",
 
-	"menu_jukebox_PD3TurbidStation": "[PAYDAY 3] Turbid Station",
-	"menu_jukebox_screen_PD3TurbidStation": "[PAYDAY 3] Turbid Station",
+	"menu_jukebox_PD3TurbidStation": "[PAYDAY 3] Turbid Station (The Ghost)",
+	"menu_jukebox_screen_PD3TurbidStation": "[PAYDAY 3] Turbid Station (The Ghost)",
 
-	"menu_jukebox_PD3UnderTheSurphaze": "[PAYDAY 3] Under The Surphaze",
-	"menu_jukebox_screen_PD3UnderTheSurphaze": "[PAYDAY 3] Under The Surphaze"
+	"menu_jukebox_PD3UnderTheSurphaze": "[PAYDAY 3] Under The Surphaze (Masterful Deceit)",
+	"menu_jukebox_screen_PD3UnderTheSurphaze": "[PAYDAY 3] Under The Surphaze (Masterful Deceit)"
 }
